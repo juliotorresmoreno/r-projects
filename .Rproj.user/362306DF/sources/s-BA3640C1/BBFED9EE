@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541976794308.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BBFED9EE",
+    "lastKnownWriteTime" : 1541976692,
+    "last_content_update" : 1541976794308,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "64C779EC",
+        "caption" : "ventas",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ventas&cache_key=64C779EC",
+        "displayedObservations" : 30,
+        "environment" : "",
+        "object" : "ventas",
+        "preview" : 0,
+        "totalObservations" : 30,
+        "variables" : 5
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

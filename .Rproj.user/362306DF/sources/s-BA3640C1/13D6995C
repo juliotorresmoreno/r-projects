@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541974875627.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2523397596",
+    "id" : "13D6995C",
+    "lastKnownWriteTime" : 1541975806,
+    "last_content_update" : 1541975806025,
+    "path" : "/media/D/htdocs/r-projects/matrices.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "38",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

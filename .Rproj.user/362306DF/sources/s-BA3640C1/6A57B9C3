@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541975809309.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6A57B9C3",
+    "lastKnownWriteTime" : 1541976692,
+    "last_content_update" : 1541976795208,
+    "path" : "/media/D/htdocs/r-projects/dataframes.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "74,0",
+        "scrollLine" : "61",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

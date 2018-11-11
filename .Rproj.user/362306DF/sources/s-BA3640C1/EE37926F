@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541968751364.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EE37926F",
+    "lastKnownWriteTime" : 1541974864,
+    "last_content_update" : 1541977000632,
+    "path" : "/media/D/htdocs/r-projects/index.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "160,0",
+        "scrollLine" : "150",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
