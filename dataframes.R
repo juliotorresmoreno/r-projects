@@ -67,3 +67,8 @@ ventas$dia_semana = NULL
 View(ventas)
 
 
+
+ventas$tienda4 = ventas$tienda1 * 2 + 100
+
+
+View(ventas)
